@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ninja/lang/src/main/java/ninja/lang/NinjaFile.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 3116,
+          "line": 124
+        },
+        "start": {
+          "column": 0,
+          "index": 3116,
+          "line": 124
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/ninja/lang/src/main/java/ninja/lang/NinjaFile.java"
+}
